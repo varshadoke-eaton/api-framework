@@ -5,3 +5,8 @@
 /packages
 /.vs/Framework_API_Automation
 *.xml
+node_modules
+bin
+obj
+dist
+artifacts
